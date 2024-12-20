@@ -1,1 +1,3 @@
 # Do-olfactory-cues-underly-the-map-of-a-wild-navigational-model-the-Manx-shearwater
+
+GPS tracking data associated with an experiment on navigational learning on Manx shearwaters conducted in 2021 and 2022. The raw data files are provided. Each file contains the GPS track of a bird's return to the colony. Filenames contain bird ring numbers (7 characters, beginning with E), and the date of release. The experimental treatment was the length of time the bird was exposed to fresh air at the release site before release. This is detailed in the info files for each bird on each day. The total treatment time is the duration between the time of release and the time of initial exposure to fresh air. 
